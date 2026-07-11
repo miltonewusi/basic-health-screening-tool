@@ -13,6 +13,10 @@ This tool collects simple demographic and anthropometric data, calculates BMI, i
 - Simple, user‑friendly interface built with R Shiny
 
 ---
+## 🌐 Live Demo
+You can access the deployed version here:  
+👉 [Basic Health Screening Tool on shinyapps.io](https://miltonewusi.shinyapps.io/health_screening_app/)
+
 
 ## 📦 Installation
 Clone the repository:
