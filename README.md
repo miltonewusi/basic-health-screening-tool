@@ -4,7 +4,7 @@ A Shiny app for basic health screening with **BMI** and **blood pressure assessm
 This tool collects simple demographic and anthropometric data, calculates BMI, interprets blood pressure, and provides an overall risk assessment with recommended actions.
 
 ### 🖼 Screenshot
-![Basic Health Screening Tool Screenshot](app_image.png)
+![Basic Health Screening Tool Screenshot](image/app_image.png)
 
 ---
 
